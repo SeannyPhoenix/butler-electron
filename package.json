@@ -1,0 +1,22 @@
+{
+  "name": "@seannyphoenix/butler-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeannyPhoenix/butler-electron.git"
+  },
+  "author": "Seanny Drakon Phoenix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeannyPhoenix/butler-electron/issues"
+  },
+  "homepage": "https://github.com/SeannyPhoenix/butler-electron#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
